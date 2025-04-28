@@ -100,6 +100,7 @@ var NDVIcolor = {
 };
 Map.addLayer(image, NDVIcolor);
 ```
+![lst2](https://user-images.githubusercontent.com/104256716/176609541-74284575-5554-4804-bb4b-9fbf8ba76659.png)
 ![2](https://github.com/user-attachments/assets/3250f089-f757-433c-9115-055e9106f889)
 ![mean seasonal ndvi](https://github.com/user-attachments/assets/92102645-c46d-484a-8109-33eb5d0d3d49)
 ### 2. **Timeseries Charts:**
