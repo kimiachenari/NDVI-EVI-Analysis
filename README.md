@@ -100,7 +100,7 @@ var NDVIcolor = {
 };
 Map.addLayer(image, NDVIcolor);
 ```
-![NDVI](https://user-images.githubusercontent.com/104256716/176388635-6a30bb8e-c91f-45d3-9c1b-a7e8c31d2e53.png)
+![2](https://github.com/user-attachments/assets/3250f089-f757-433c-9115-055e9106f889)
 ![mean seasonal ndvi](https://github.com/user-attachments/assets/92102645-c46d-484a-8109-33eb5d0d3d49)
 ### 2. **Timeseries Charts:**
 Generate insightful timeseries graphs for NDVI and EVI, showing the maximum, mean, and minimum values over time.
