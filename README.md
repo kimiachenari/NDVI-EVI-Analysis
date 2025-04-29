@@ -100,7 +100,8 @@ var NDVIcolor = {
 };
 Map.addLayer(image, NDVIcolor);
 ```
-![2](https://github.com/user-attachments/assets/3250f089-f757-433c-9115-055e9106f889)
+![ndvi](https://github.com/user-attachments/assets/fa23942b-c66d-43c2-82f6-49b154668c0c)
+
 ![mean seasonal ndvi](https://github.com/user-attachments/assets/92102645-c46d-484a-8109-33eb5d0d3d49)
 ### 2. **Timeseries Charts:**
 Generate insightful timeseries graphs for NDVI and EVI, showing the maximum, mean, and minimum values over time.
@@ -137,17 +138,4 @@ The data exported includes:
 
 ---
 
-## 🚀 **Let’s Get Started!**
-
-Dive into the world of satellite data, explore Tehran’s vegetation dynamics, and transform raw satellite data into valuable insights. If you have any questions or want to contribute, open an issue or submit a pull request!
-
----
-
-### License
-
-This project is open-source and available under the MIT License.
-
----
-
-**Happy coding and happy analyzing!** 🌱
 
